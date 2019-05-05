@@ -161,7 +161,7 @@ while(i < cmd_args.length)
         when 1
             size_y = arg.to_i
         when 2
-            difficulty_step = arg.to_i
+            difficulty_step = arg.to_f
         end
     end
     i += 1
