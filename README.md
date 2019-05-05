@@ -2,6 +2,7 @@
 Tetris skrivet i ruby
 
 Install:
+
 1: "gem install ruby2d"
 
 2: "ruby tetris.rb"
