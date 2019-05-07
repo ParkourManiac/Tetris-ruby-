@@ -7,4 +7,4 @@ Install:
 
 2: "ruby tetris.rb"
 
-3 (optionellt): "ruby tetris.rb [map_size_x] [map_size_y] [difficulty 0.01-2]"
+3 (optional): "ruby tetris.rb [map_size_x] [map_size_y] [difficulty 0.01-2]"
