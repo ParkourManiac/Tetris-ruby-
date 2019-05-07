@@ -1,5 +1,5 @@
 # Tetris-ruby-
-Tetris skrivet i ruby
+Tetris written in ruby
 
 Install:
 
